@@ -1,2 +1,1 @@
-# Mofidul-Jamal
-Mofidul's class folder for social web mining
+This is Jamal's folder
