@@ -1,0 +1,102 @@
++-------------------------+--------------------------------------------------------+-------------------------------------------+
+|          Group          |                         Title                          |                  Company                  |
++-------------------------+--------------------------------------------------------+-------------------------------------------+
+| Engineering/Development |                   Software Engineer                    |                   Citrix                  |
+| Engineering/Development | Product Development/Customer Care/Renewals/ISR Manager |       DataCore Software Corporation       |
+| Engineering/Development |                  Cognitive Architect                   |              MindSoft Bioware             |
+| Engineering/Development |              Product Development Manager               |                   Citrix                  |
+| Engineering/Development |                Staff Software Engineer                 |               Citrix Systems              |
+| Engineering/Development |                  Software Engineer 2                   |                   Citrix                  |
+| Engineering/Development |              Staff Software Test Engineer              |               Citrix Systems              |
+| Engineering/Development |             Software Development Engineer              |                   Amazon                  |
+| Engineering/Development |                   Software Developer                   |             DataCore Software             |
+| Engineering/Development |          Junior Software Engineer | R&D Group          |             DataCore Software             |
+| Engineering/Development |          Software Quality Assurance Engineer           |                  Stryker                  |
+| Engineering/Development |                     Test Engineer                      |             DataCore Software             |
+| Engineering/Development |                   Software Engineer                    |             CircleBack Lending            |
+| Engineering/Development |        Principal Software Development Engineer         |            Citrix Systems, Inc.           |
+| Engineering/Development |               Embedded Software Engineer               |               IPG Photonics               |
+| Engineering/Development |                  Mobile App Developer                  |               MoreVisibility              |
+| Engineering/Development |                     App Developer                      |                   SPH AG                  |
+| Engineering/Development |                Senior Software Engineer                | Expression Analysis (A Quintiles Company) |
+| Engineering/Development |               Software Engineer in Test                |             DataCore Software             |
+| Engineering/Development |                 Software Test Engineer                 |                   Citrix                  |
+| Engineering/Development |                Senior Software Engineer                |             DataCore Software             |
+| Engineering/Development |              Mobile Application Developer              |                  JPay Inc                 |
+| Engineering/Development |            Integration Development Engineer            |             DataCore Software             |
+| Engineering/Development |                 Software Test Engineer                 |             DataCore Software             |
+| Engineering/Development |                   Software Developer                   |           ProcessMAP Corporation          |
+| Engineering/Development |            Android / Google Play Developer             |           Google Play Developer           |
+| Engineering/Development |                 Software Test Engineer                 |             Motorola Solutions            |
+| Engineering/Development |       Ruby Developer and QA Automation Engineer        |            Church Pension Group           |
+| Engineering/Development |                Ruby on Rails Developer                 |                Waywire.com                |
+| Engineering/Development |                 Programmer & Sysadmin                  |                withpulp.com               |
+| Engineering/Development |          Staff Software Development Engineer           |               Citrix Systems              |
+| Engineering/Development |                Senior Software Engineer                |             DataCore Software             |
+| Engineering/Development |                   RF Design Engineer                   |              Verizon Wireless             |
+| Engineering/Development |                  Front-End Developer                   |               SMAKK Studios               |
+| Engineering/Development |                     Web Developer                      |                  Tr3life                  |
+| Engineering/Development |          Senior Software Development Engineer          |               Citrix Systems              |
+| Engineering/Development |                     Test Engineer                      |             DataCore Software             |
+| Engineering/Development |                   Firmware Engineer                    |        Lexmark International, Inc.        |
+| Engineering/Development |            Software Developer / Web Master             |           School of Visual Arts           |
+| Engineering/Development |             Software Wizard and Co-Founder             |                 With Pulp                 |
+| Engineering/Development |             Engineering Change Coordinator             |                 Bosch FHP                 |
+| Engineering/Development |               Mechanical Engineer Intern               |                 Bosch FHP                 |
+| Engineering/Development |                 Software Test Engineer                 |                   Citrix                  |
+| Engineering/Development |                   Software Engineer                    |             DataCore Software             |
+| Engineering/Development |                 Lead Software Engineer                 |       Digicare Biomedical Technology      |
+| Engineering/Development |                 Sr. Programmer Analyst                 |                    RSI                    |
+| Engineering/Development |                 Sr. Software Architect                 |             DataCore Software             |
+| Engineering/Development |             Software Development Engineer              |                   Citrix                  |
+|        Management       |         Academic Support Services Coordinator          |        Florida Atlantic University        |
+|        Management       |               Managing Principal & Owner               |                 mPWR, LLC                 |
+|        Management       |             Product Manager - HDX Graphics             |                   Citrix                  |
+|        Management       |             Director of Product Marketing              |             DataCore Software             |
+|        Management       |                    Product Manager                     |                 FCB Global                |
+|        Management       |                  Product Manager, CEO                  |                 With Pulp                 |
+|        Management       |           Business Dev Manager Latin America           |           On-Ramp Wireless, Inc.          |
+|        Management       |          Customer Care/Renewals & ISR Manager          |             DataCore Software             |
+|        Management       | Product Development/Customer Care/Renewals/ISR Manager |       DataCore Software Corporation       |
+|        Management       |              Product Development Manager               |                   Citrix                  |
+|        Management       |                   IT Project Manager                   |                   Fiserv                  |
+|        Management       |               Technical Support Director               |             DataCore Software             |
+|        Management       |            Lead Translation Project Manager            |                   Citrix                  |
+|        Management       |                   Creative Director                    |        Freelance Marketing & Design       |
+|        Management       |                       IT Manager                       |             DataCore Software             |
+|        Management       |               People Department Manager                |             DataCore Software             |
+|        Management       |                   Service Manager 2                    |                Wells Fargo                |
+|        Management       |           Administrative Assistant/Recruiter           |               SEG Promotions              |
+|        Management       |         Receptionist/Administrative Assistant          |           The Execu|Search Group          |
+|        Management       |                     IT Coordinator                     |        Aerospace Technologies Group       |
+|        Management       |             Engineering Change Coordinator             |                 Bosch FHP                 |
+|        Management       |                Regional Account Manager                |                 NxtFactor                 |
+|        Management       |               Code Compliance Supervisor               |         City of Palm Beach Gardens        |
+|        Leadership       |              Vice President Customer Care              |       DataCore Software Corporation       |
+|        Leadership       |    Vice President Emerging Markets LATAM and CANADA    |             DataCore Software             |
+|        Leadership       |               VP Distribution Operations               |                  DataCore                 |
+|        Leadership       |                     VP Operations                      |       DataCore Software Corporation       |
+|        Leadership       |               Managing Principal & Owner               |                 mPWR, LLC                 |
+|        Leadership       |                  Product Manager, CEO                  |                 With Pulp                 |
+|        Leadership       |                    Associate Chair                     |        Florida Atlantic University        |
+|        Leadership       |                         Owner                          |            POW! Design Studios            |
+|        Leadership       |                        Founder                         |                  Airlift                  |
+|        Leadership       |                     Founder & CEO                      |               Redwood Brands              |
+|        Leadership       |                    Co-Founder & CEO                    |              SilverLogic LLC              |
+|        Leadership       |                   Founder and Owner                    |    David Hartmann Software Development    |
+|        Leadership       |                    Co-founder & CEO                    |              SilverLogic LLC              |
+|        Leadership       |                     Owner/Teacher                      |          Dyna'Dance Dance School          |
+|        Leadership       |             Software Wizard and Co-Founder             |                 With Pulp                 |
+|        Leadership       |                     President/CEO                      |             Surgical City Inc.            |
+|        Education        |         Academic Support Services Coordinator          |        Florida Atlantic University        |
+|        Education        |                       Professor                        |        Florida Atlantic University        |
+|        Education        |                  Associate Professor                   |        Florida Atlantic University        |
+|        Education        |                   Adjunct Instructor                   |    New England Institute of Technology    |
+|        Education        |              Graduate Teaching Assistant               |        Florida Atlantic University        |
+|        Education        |                        Faculty                         |        Florida Atlantic University        |
+|        Education        |                     Owner/Teacher                      |          Dyna'Dance Dance School          |
+|        Education        |                        Student                         |        Florida Atlantic University        |
+|          Sales          |                    Sales Consultant                    |        Charles Rutenberg Realty LLC       |
+|          Sales          |          Customer Care/Renewals & ISR Manager          |             DataCore Software             |
+|          Sales          | Product Development/Customer Care/Renewals/ISR Manager |       DataCore Software Corporation       |
++-------------------------+--------------------------------------------------------+-------------------------------------------+
